@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+django_girls
+django_girls1
+db.sqlite3
